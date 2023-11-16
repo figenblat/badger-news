@@ -99,16 +99,16 @@ The questions below will ask you about the mobile design and design patterns use
 
 1. What mobile design pattern(s) do you use in your current implementation of Badger News?
 
-INSERT YOUR RESPONSE HERE.
+The mobile design patterns I use in my current implementation are lists, stacks, cards, bars, and filters.
 
 2. Do you believe that Badger News (this homework) or Badger Bakery (last homework) was more mobile-friendly? Support your answer.
 
-INSERT YOUR RESPONSE HERE.
+I believe this homework (Badger News) is more mobile-friendly. My main reasoning for this is based off of how the app looks. I also think that the layout for Badger Bakery was a bit confusing, and the way things are selected and filtered in this homework is more intuitive. 
 
 3. What other gesture(s) could be added to Badger News? What additional functionality would these gesture(s) support?
 
-INSERT YOUR RESPONSE HERE.
+Other gestures that could be added are perhaps a long click on the article of interest. This long click would serve to pull up a preview of the article along with the tags of the article. Another gesture that could be added is a two finger pinch and spread that would enlargen or make smaller the size of the text. 
 
 4. Is there opportunity to add any microinteraction(s)? If so, what would be the trigger-action pair(s)?
 
-INSERT YOUR RESPONSE HERE.
+I do think there is an opportunity to add microinteractions. Things such as a like button to like an article, a dislike button to dislike an article, and a pull to refresh microinteraction could serve useful in this app. A double tap to like, or a tap on the dislike button would be the trigger action pairs for those microinteractions. Pulling down on the screen would be the trigger-action pair for refreshing the screen. 
